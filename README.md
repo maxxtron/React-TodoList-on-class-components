@@ -1,4 +1,4 @@
 Todo Applicitaion:
 ---------
-Create TodoList on Classes components
-using bootstrap
+Create TodoList on Classes components and
+using bootstrap for style
