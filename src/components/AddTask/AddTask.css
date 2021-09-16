@@ -1,0 +1,9 @@
+.add-task {
+    margin-top: 10px;
+}
+
+.task-input {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+}
