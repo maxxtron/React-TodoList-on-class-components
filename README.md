@@ -7,7 +7,7 @@
 
 
 ### Example:</br>
-![Илюстрация картинкии](https://github.com/maxxtron/project-photo/blob/main/Classes-todo.png)
+![Илюстрация картинкии](https://files.fm/thumb_show.php?i=nga7q759n)
 
 ### How to start a project:
 1. Clone the repository
