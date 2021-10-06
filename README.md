@@ -3,7 +3,7 @@
 * Create TodoList on Classes components and</br>
 * Using bootstrap for style</br></br>
 
-### <a href="https://todolist-onclasses.web.app/">Project on firebase</a>
+### <a href="https://todolist-onclasses.web.app/" target="_blank">Project on firebase</a>
 
 
 ### Example:</br>
