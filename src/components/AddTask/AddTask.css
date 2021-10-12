@@ -1,11 +1,8 @@
 .add-task {
-    margin-top: 10px;
-    flex-wrap: wrap;
+  margin-top: 10px;
 }
 
 .task-input {
-    width: 387px;
-    flex-grow: 1;
-    margin-right: 3px;
-    margin-bottom: 10px;
+  flex-grow: 1;
+  margin-right: 3px;
 }
