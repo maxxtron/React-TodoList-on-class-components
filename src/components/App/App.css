@@ -8,6 +8,9 @@
     margin: 1rem 0;
     flex-wrap: wrap;
 }
-.btn-group {
+.btn-group,
+.btn-task {
   display: block;
+  height: 100%;
+  margin: 0 auto;
 }
