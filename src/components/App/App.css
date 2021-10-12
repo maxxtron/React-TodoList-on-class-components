@@ -6,3 +6,6 @@
 .top-panel {
     margin: 1rem 0;
 }
+.btn-group {
+  display: block;
+}
