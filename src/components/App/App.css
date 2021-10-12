@@ -5,6 +5,7 @@
 
 .top-panel {
     margin: 1rem 0;
+    flex-wrap: wrap;
 }
 .btn-group {
   display: block;
